@@ -1,4 +1,4 @@
-# [![](https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/EZR_Icon.png)](https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn)
+# [![](https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/EZR_Icon.png)](https://github.com/FFXIV-CombatReborn/EasyZoomReborn)
 
  **EasyZoomReborn**
  
